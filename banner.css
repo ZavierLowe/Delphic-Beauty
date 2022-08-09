@@ -1,0 +1,60 @@
+.banner{
+    font-family: 'Satoshi';
+    
+    display: flex;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin-top: 100px;
+    
+    
+}
+
+.banner__left{
+    width: 50%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.banner__details{
+    
+    
+    
+    width: 400px;
+}
+
+
+.banner__heading{
+    width: 448px;
+    font-weight:800;
+    line-height: 3rem; ;
+
+    font-size: 40px;
+}
+
+.banner__text{
+    margin-top: 16px;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.banner__right{
+    width: 50%;
+    
+    
+    
+    height: 100%;
+    
+}
+
+.banner__img-main{
+    object-fit: contain;
+    border-left: 1px solid black;
+    
+    
+
+   
+}
+
